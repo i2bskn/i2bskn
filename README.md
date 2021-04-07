@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### Infrastructure
 
-[![](https://img.shields.io/static/v1?label=&message=Amazon%20Web%20Service&color=555&style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/) [![](https://img.shields.io/static/v1?label=&message=Heroku&color=555&style=for-the-badge&logo=heroku)](https://heroku.com/) [![](https://img.shields.io/static/v1?label=&message=Vercel&color=555&style=for-the-badge&logo=vercel)](https://vercel.com/)
+[![](https://img.shields.io/static/v1?label=&message=Amazon%20Web%20Service&color=555&style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/) [![](https://img.shields.io/static/v1?label=&message=Heroku&color=555&style=for-the-badge&logo=heroku)](https://heroku.com/) [![](https://img.shields.io/static/v1?label=&message=Vercel&color=555&style=for-the-badge&logo=vercel)](https://vercel.com/) [![](https://img.shields.io/static/v1?label=&message=netlify&color=555&style=for-the-badge&logo=netlify)](https://www.netlify.com/)
 
 ### Middleware
 
