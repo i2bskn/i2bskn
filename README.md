@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Frontend
 
-![](https://img.shields.io/static/v1?label=&message=HTML&color=555&style=for-the-badge&logo=html5) ![](https://img.shields.io/static/v1?label=&message=CSS&color=555&style=for-the-badge&logo=css3) [![](https://img.shields.io/static/v1?label=&message=React&color=555&style=for-the-badge&logo=react)](https://reactjs.org/) [![](https://img.shields.io/static/v1?label=&message=Next.js&color=555&style=for-the-badge&logo=next.js)](https://nextjs.org/) [![](https://img.shields.io/static/v1?label=&message=Tailwind%20CSS&color=555&style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+![](https://img.shields.io/static/v1?label=&message=HTML&color=555&style=for-the-badge&logo=html5) ![](https://img.shields.io/static/v1?label=&message=CSS&color=555&style=for-the-badge&logo=css3) ![](https://img.shields.io/static/v1?label=&message=javascript&color=555&style=for-the-badge&logo=javascript) [![](https://img.shields.io/static/v1?label=&message=TypeScript&color=555&style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/) [![](https://img.shields.io/static/v1?label=&message=React&color=555&style=for-the-badge&logo=react)](https://reactjs.org/) [![](https://img.shields.io/static/v1?label=&message=Next.js&color=555&style=for-the-badge&logo=next.js)](https://nextjs.org/) [![](https://img.shields.io/static/v1?label=&message=Tailwind%20CSS&color=555&style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 
 ### Backend
 
