@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 ### Middleware
 
-[![](https://img.shields.io/static/v1?label=&message=nginx&color=555&style=for-the-badge&logo=nginx)](https://www.nginx.com/) [![](https://img.shields.io/static/v1?label=&message=Redis&color=555&style=for-the-badge&logo=redis)](https://redis.io/) [![](https://img.shields.io/static/v1?label=&message=MySQL&color=555&style=for-the-badge&logo=mysql)](https://www.mysql.com/)
+[![](https://img.shields.io/static/v1?label=&message=nginx&color=555&style=for-the-badge&logo=nginx)](https://www.nginx.com/) [![](https://img.shields.io/static/v1?label=&message=Redis&color=555&style=for-the-badge&logo=redis)](https://redis.io/) [![](https://img.shields.io/static/v1?label=&message=MySQL&color=555&style=for-the-badge&logo=mysql)](https://www.mysql.com/) [![](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=555&style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
