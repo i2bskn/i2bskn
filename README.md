@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/static/v1?label=&message=HTML&color=555&style=for-the-badge&logo=html5) ![](https://img.shields.io/static/v1?label=&message=CSS&color=555&style=for-the-badge&logo=css3) ![](https://img.shields.io/static/v1?label=&message=javascript&color=555&style=for-the-badge&logo=javascript) [![](https://img.shields.io/static/v1?label=&message=TypeScript&color=555&style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/) [![](https://img.shields.io/static/v1?label=&message=React&color=555&style=for-the-badge&logo=react)](https://reactjs.org/) [![](https://img.shields.io/static/v1?label=&message=Next.js&color=555&style=for-the-badge&logo=next.js)](https://nextjs.org/)
 
 ### Mobile
-[![](https://img.shields.io/static/v1?label=&message=Flutter&color=555&style=for-the-badge&logo=flutter)](https://flutter.dev/)
+[![](https://img.shields.io/static/v1?label=&message=Dart&color=555&style=for-the-badge&logo=dart)](https://dart.dev/) [![](https://img.shields.io/static/v1?label=&message=Flutter&color=555&style=for-the-badge&logo=flutter)](https://flutter.dev/)
 
 ### Backend
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### Infrastructure
 
-[![](https://img.shields.io/static/v1?label=&message=Amazon%20Web%20Service&color=555&style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/)
+[![](https://img.shields.io/static/v1?label=&message=AWS&color=555&style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/) [![](https://img.shields.io/static/v1?label=&message=GCP&color=555&style=for-the-badge&logo=google-cloud)](https://cloud.google.com/)
 
 ### Middleware
 
