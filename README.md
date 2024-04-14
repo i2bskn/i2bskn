@@ -2,7 +2,7 @@
 
 ### Frontend
 
-![](https://img.shields.io/static/v1?label=&message=HTML&color=555&style=for-the-badge&logo=html5) ![](https://img.shields.io/static/v1?label=&message=CSS&color=555&style=for-the-badge&logo=css3) ![](https://img.shields.io/static/v1?label=&message=javascript&color=555&style=for-the-badge&logo=javascript) [![](https://img.shields.io/static/v1?label=&message=TypeScript&color=555&style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/) [![](https://img.shields.io/static/v1?label=&message=React&color=555&style=for-the-badge&logo=react)](https://reactjs.org/) [![](https://img.shields.io/static/v1?label=&message=Next.js&color=555&style=for-the-badge&logo=next.js)](https://nextjs.org/)
+![](https://img.shields.io/static/v1?label=&message=HTML&color=555&style=for-the-badge&logo=html5) ![](https://img.shields.io/static/v1?label=&message=CSS&color=555&style=for-the-badge&logo=css3) ![](https://img.shields.io/static/v1?label=&message=javascript&color=555&style=for-the-badge&logo=javascript) [![](https://img.shields.io/static/v1?label=&message=TypeScript&color=555&style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/) [![](https://img.shields.io/static/v1?label=&message=React&color=555&style=for-the-badge&logo=react)](https://reactjs.org/) 
 
 ### Mobile/Descktop
 
@@ -14,8 +14,8 @@
 
 ### Infrastructure
 
-[![](https://img.shields.io/static/v1?label=&message=AWS&color=555&style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/)
+[![](https://img.shields.io/static/v1?label=&message=AWS&color=555&style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/) [![](https://img.shields.io/static/v1?label=&message=CloudFlare&color=555&style=for-the-badge&logo=cloudflare)](https://www.cloudflare.com/ja-jp/)
 
 ### Middleware
 
-[![](https://img.shields.io/static/v1?label=&message=nginx&color=555&style=for-the-badge&logo=nginx)](https://www.nginx.com/) [![](https://img.shields.io/static/v1?label=&message=Redis&color=555&style=for-the-badge&logo=redis)](https://redis.io/) [![](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=555&style=for-the-badge&logo=postgresql)](https://www.postgresql.org/) [![](https://img.shields.io/static/v1?label=&message=Elasticsearch&color=555&style=for-the-badge&logo=elasticsearch)](https://www.elastic.co/jp/elasticsearch/)
+[![](https://img.shields.io/static/v1?label=&message=nginx&color=555&style=for-the-badge&logo=nginx)](https://www.nginx.com/) [![](https://img.shields.io/static/v1?label=&message=Redis&color=555&style=for-the-badge&logo=redis)](https://redis.io/) [![](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=555&style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
