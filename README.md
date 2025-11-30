@@ -4,9 +4,9 @@
 
 ![](https://img.shields.io/static/v1?label=&message=HTML&color=555&style=for-the-badge&logo=html5) ![](https://img.shields.io/static/v1?label=&message=CSS&color=555&style=for-the-badge&logo=css3) ![](https://img.shields.io/static/v1?label=&message=javascript&color=555&style=for-the-badge&logo=javascript) [![](https://img.shields.io/static/v1?label=&message=TypeScript&color=555&style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/) [![](https://img.shields.io/static/v1?label=&message=React&color=555&style=for-the-badge&logo=react)](https://reactjs.org/) 
 
-### Mobile/Descktop
+### Mobile
 
-[![](https://img.shields.io/static/v1?label=&message=Dart&color=555&style=for-the-badge&logo=dart)](https://dart.dev/) [![](https://img.shields.io/static/v1?label=&message=Flutter&color=555&style=for-the-badge&logo=flutter)](https://flutter.dev/)
+[![](https://img.shields.io/static/v1?label=&message=ReactNative&color=555&style=for-the-badge&logo=react)](https://reactnative.dev/)
 
 ### Backend
 
