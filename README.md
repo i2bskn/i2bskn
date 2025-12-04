@@ -10,7 +10,7 @@
 
 ### Backend
 
-[![](https://img.shields.io/static/v1?label=&message=Go&color=555&style=for-the-badge&logo=go)](https://golang.org/) [![](https://img.shields.io/static/v1?label=&message=Ruby&color=555&style=for-the-badge&logo=ruby)](https://ruby-lang.org/) [![](https://img.shields.io/static/v1?label=&message=Python&color=555&style=for-the-badge&logo=python)](https://www.python.org/) [![](https://img.shields.io/static/v1?label=&message=Ruby%20on%20Rails&color=555&style=for-the-badge&logo=ruby-on-rails)](https://rubyonrails.org/) [![](https://img.shields.io/static/v1?label=&message=LangChain&color=555&style=for-the-badge&logo=python)](https://www.langchain.com/)
+[![](https://img.shields.io/static/v1?label=&message=Go&color=555&style=for-the-badge&logo=go)](https://golang.org/) [![](https://img.shields.io/static/v1?label=&message=Ruby&color=555&style=for-the-badge&logo=ruby)](https://ruby-lang.org/) [![](https://img.shields.io/static/v1?label=&message=Python&color=555&style=for-the-badge&logo=python)](https://www.python.org/) [![](https://img.shields.io/static/v1?label=&message=Ruby%20on%20Rails&color=555&style=for-the-badge&logo=ruby-on-rails)](https://rubyonrails.org/)
 
 ### Infrastructure
 
