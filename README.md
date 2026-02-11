@@ -2,7 +2,7 @@
 
 ### Frontend
 
-![](https://img.shields.io/static/v1?label=&message=HTML&color=555&style=for-the-badge&logo=html5) ![](https://img.shields.io/static/v1?label=&message=CSS&color=555&style=for-the-badge&logo=css) ![](https://img.shields.io/static/v1?label=&message=javascript&color=555&style=for-the-badge&logo=javascript) [![](https://img.shields.io/static/v1?label=&message=TypeScript&color=555&style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/) [![](https://img.shields.io/static/v1?label=&message=React&color=555&style=for-the-badge&logo=react)](https://reactjs.org/) [![](https://img.shields.io/static/v1?label=&message=Nexst.js&color=555&style=for-the-badge&logo=nextdotjs)](https://nextjs.org/) 
+[![](https://img.shields.io/static/v1?label=&message=TypeScript&color=555&style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/) [![](https://img.shields.io/static/v1?label=&message=React&color=555&style=for-the-badge&logo=react)](https://reactjs.org/) [![](https://img.shields.io/static/v1?label=&message=Nexst.js&color=555&style=for-the-badge&logo=nextdotjs)](https://nextjs.org/) 
 
 ### Mobile
 
@@ -10,12 +10,12 @@
 
 ### Backend
 
-[![](https://img.shields.io/static/v1?label=&message=Go&color=555&style=for-the-badge&logo=go)](https://golang.org/) [![](https://img.shields.io/static/v1?label=&message=Ruby&color=555&style=for-the-badge&logo=ruby)](https://ruby-lang.org/) [![](https://img.shields.io/static/v1?label=&message=Python&color=555&style=for-the-badge&logo=python)](https://www.python.org/) [![](https://img.shields.io/static/v1?label=&message=Ruby%20on%20Rails&color=555&style=for-the-badge&logo=ruby-on-rails)](https://rubyonrails.org/)
+[![](https://img.shields.io/static/v1?label=&message=Go&color=555&style=for-the-badge&logo=go)](https://golang.org/)
 
 ### Infrastructure
 
-[![](https://img.shields.io/static/v1?label=&message=Amazon%20Web%20Service&color=555&style=for-the-badge)](https://aws.amazon.com/) [![](https://img.shields.io/static/v1?label=&message=Vercel&color=555&style=for-the-badge&logo=vercel)](https://vercel.com/) [![](https://img.shields.io/static/v1?label=&message=CloudFlare&color=555&style=for-the-badge&logo=cloudflare)](https://www.cloudflare.com/ja-jp/)
+[![](https://img.shields.io/static/v1?label=&message=Amazon%20Web%20Service&color=555&style=for-the-badge)](https://aws.amazon.com/) [![](https://img.shields.io/static/v1?label=&message=Vercel&color=555&style=for-the-badge&logo=vercel)](https://vercel.com/) [![](https://img.shields.io/static/v1?label=&message=Supabase&color=555&style=for-the-badge&logo=supabase)]([https://www.cloudflare.com/ja-jp/](https://supabase.com/)) [![](https://img.shields.io/static/v1?label=&message=CloudFlare&color=555&style=for-the-badge&logo=cloudflare)](https://www.cloudflare.com/ja-jp/)
 
 ### Middleware
 
-[![](https://img.shields.io/static/v1?label=&message=nginx&color=555&style=for-the-badge&logo=nginx)](https://www.nginx.com/) [![](https://img.shields.io/static/v1?label=&message=Redis&color=555&style=for-the-badge&logo=redis)](https://redis.io/) [![](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=555&style=for-the-badge&logo=postgresql)](https://www.postgresql.org/) [![](https://img.shields.io/static/v1?label=&message=MySQL&color=555&style=for-the-badge&logo=mysql)](https://www.mysql.com/jp/)
+[![](https://img.shields.io/static/v1?label=&message=nginx&color=555&style=for-the-badge&logo=nginx)](https://www.nginx.com/) [![](https://img.shields.io/static/v1?label=&message=Redis&color=555&style=for-the-badge&logo=redis)](https://redis.io/) [![](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=555&style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
