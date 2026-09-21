@@ -1,5 +1,3 @@
-![](https://raw.githubusercontent.com/i2bskn/i2bskn/main/profile-summary-card-output/github/0-profile-details.svg)
-
 ### Frontend
 [![](https://img.shields.io/static/v1?label=&message=TypeScript&color=555&style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/) [![](https://img.shields.io/static/v1?label=&message=React&color=555&style=for-the-badge&logo=react)](https://reactjs.org/) [![](https://img.shields.io/static/v1?label=&message=Next.js&color=555&style=for-the-badge&logo=nextdotjs)](https://nextjs.org/) [![](https://img.shields.io/static/v1?label=&message=Tailwind%20CSS&color=555&style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
 ### Mobile
